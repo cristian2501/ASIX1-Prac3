@@ -1,7 +1,16 @@
-
 <lista_de_empleados>
-    <nombre>Robert</nombre>
-    <apellido>Smith</apellido>
-    <direccion>Plaza España</direccion>
-    <telefono>5223562132</telefono>
+    <Empleado1>
+        <nombre>Robert</nombre>
+        <apellido>Smith</apellido>
+        <direccion>Plaza España</direccion>
+        <email>robert@gmail.com</email>
+        <telefono>522356213</telefono>
+    </Empleado1>
+    <Empleado2>
+        <nombre>Perez</nombre>
+        <apellido>Garcia</apellido>
+        <direccion>Plaza Cataluña</direccion>
+        <email>perez@gmail.com</email>
+        <telefono>55831366</telefono>
+    </Empleado2>
 </lista_de_empleados>

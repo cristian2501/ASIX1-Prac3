@@ -1,0 +1,23 @@
+{
+    "lista_de_empleados": 
+    {
+      "Empleado1": 
+      {
+        "nombre": "Robert",
+        "apellido": "Smith",
+        "direccion": "Plaza España",
+        "email": "robert@gmail.com",
+        "telefono": "522356213"
+      },
+
+      "Empleado2": 
+      {
+        "nombre": "Perez",
+        "apellido": "Garcia",
+        "direccion": "Plaza Cataluña",
+        "email": "perez@gmail.com",
+        "telefono": "55831366"
+      }
+    }
+}    
+    
